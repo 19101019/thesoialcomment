@@ -10,6 +10,7 @@ const CookieNotification = () => {
 	const closeCookieBanner = () => {
 		localStorage.setItem("cookieSeen", "shown");
 		setCookie("shown");
+		
 	}
 
 	return (
