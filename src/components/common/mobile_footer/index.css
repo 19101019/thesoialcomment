@@ -1,0 +1,14 @@
+.mobile-footer-wrapper {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background-color: var(--color-white);
+  padding: var(--spacing-16);
+  text-align: center;
+  z-index: 99;
+  box-shadow: rgb(25 28 31 / 4%) 0px -4px 8px, rgb(25 28 31 / 4%) 0px -1px 0px;
+}
+
+.mobile-footer-wrapper .btn {
+  padding: var(--spacing-8) var(--spacing-24);
+}

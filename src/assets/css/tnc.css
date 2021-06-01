@@ -1,0 +1,16 @@
+.tnc-wrapper {
+  text-align: left;
+  text-align: justify;
+}
+
+.tnc-wrapper .page-title {
+  padding: var(--spacing-32) 0 var(--spacing-16);
+}
+
+.tnc-wrapper .section {
+  margin-bottom: var(--spacing-16);
+}
+
+.tnc-wrapper .section .section-title {
+  font-weight: var(--font-weight-bold);
+}

@@ -1,0 +1,14 @@
+.privacy-policy-wrapper {
+  text-align: left;
+  text-align: justify;
+}
+
+.privacy-policy-wrapper .page-title {
+  padding: var(--spacing-32) 0 var(--spacing-16);
+}
+
+.privacy-policy-wrapper .section .section-title {
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-bigger);
+  padding-bottom: var(--spacing-8);
+}
